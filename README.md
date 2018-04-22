@@ -28,8 +28,8 @@ Chapter Planning and Handouts
 8. See Additional Resources and Activities for Chapter 2
    - In GitHub, see PDF located in Introduction
 9. Review Cue Cards (Ch 2 Terms and Concepts Practice)
-10. Complete Ch 1 Ethics Quiz
-11. Complete Ch 1 Quiz
+10. Complete Ch 2 Ethics Quiz
+11. Complete Ch 2 Quiz
 
 ## Contents of this Repo
 
